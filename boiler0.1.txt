@@ -1,3 +1,23 @@
 As Contribution of boiler to our day to day energy consumption is significant e.g. boiler amounts to 41% of total electricity[].
 avoilding unplanned shutdowns and reducing accidents involving loss of human life and equipment will impact this contribution
-to much extent. Blanket solution to above problem is to provide good control of boiler plant. 
+to much extent. Blanket solution to above problems is to provide good control of boiler plant which involves parameters such as 
+ISAE,IAE etc (list down). We can find various controllers applied in different strategies to achieve this objective (list down history of contoller. While, 
+we are focusing on tracking of setpoint, we should never lose sight of its economically feasibility. Purely tracking do not 
+always ensures profit which any production industries demands. It can always be seen that if production is not economic feasible
+then production needs to be shutdown even if we have best setpoint controller. In this position, we need a controller which 
+can not only track setpoint well but also ensures return on investment.
+
+It has been well established through research and implementation that family of model based predictive controller are outstanding
+in terms of performance based on setpoint tracking and constraint handling as compare to traditional controllers. MPC based
+controllers in essence computes optimized values of inputs to system such that it minimize or maximize the objective function.
+Using economic parameters as objective function of MPC started exploring the capability of predictive control family in terms of 
+economic performance. Moreover, we can find satisfying performance in terms of setpoint tracking as well as economic performance.
+Question arises whether economic MPC perform better than MPC whose sole objective is to track setpoint. If yes, what are 
+performance parameters are evaluated. If no, then at what extent we are able to accept economic MPC etc.
+
+ 
+
+In this paper, we have tried to answer some of the questions, by comparing economic MPC, NMPC and LMPC
+
+
+
