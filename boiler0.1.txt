@@ -21,24 +21,207 @@ Modelling of drum boiler system is detailed in section 2, section 3 covers diffe
 Ref:
 [1] World Coal Association. Coal and Electricity. Technical report, World Coal Association, 2016
 [2] Levine, W.S., 2018. The Control Handbook (three volume set). CRC press.
+@book{levine2018control,
+  title={The Control Handbook (three volume set)},
+  author={Levine, William S},
+  year={2018},
+  publisher={CRC press}
+}
 [3] Gilman, G.F. and Gilman, J., 2010. Boiler control systems engineering. ISA.
+@book{gilman2010boiler,
+  title={Boiler control systems engineering},
+  author={Gilman, GF and Gilman, Jerry},
+  year={2010},
+  publisher={Isa}
+}
 [4] Efheij, H., Albagul, A. and Albraiki, N.A., 2019, March. Comparison of Model Predictive Control and PID Controller in Real Time Process     Control System. In 2019 19th International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)       (pp. 64-69). IEEE.
+@inproceedings{efheij2019comparison,
+  title={Comparison of Model Predictive Control and PID Controller in Real Time Process Control System},
+  author={Efheij, Hafed and Albagul, Abdulgani and Albraiki, Nabela Ammar},
+  booktitle={2019 19th International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)},
+  pages={64--69},
+  year={2019},
+  organization={IEEE}
+}
 [5] Sha'aban, Y.A., Lennox, B. and Laurí, D., 2013. PID versus MPC performance for siso dead-time dominant processes. IFAC Proceedings Volumes, 46(32), pp.241-246.
+@article{sha2013pid,
+  title={PID versus MPC performance for siso dead-time dominant processes},
+  author={Sha'aban, Yusuf Abubakar and Lennox, Barry and Laur{\'\i}, David},
+  journal={IFAC Proceedings Volumes},
+  volume={46},
+  number={32},
+  pages={241--246},
+  year={2013},
+  publisher={Elsevier}
+}
 [6] Ahmad, A. and Wahid, A., 2007. Application of model predictive control (MPC) tuning strategy in multivariable control of distillation column. Reaktor, 11(2), pp.66-70.
+@article{ahmad2007application,
+  title={Application of model predictive control (MPC) tuning strategy in multivariable control of distillation column},
+  author={Ahmad, Arshad and Wahid, Abdul},
+  journal={Reaktor},
+  volume={11},
+  number={2},
+  pages={66--70},
+  year={2007},
+  publisher={Department of Chemical Engineering, Diponegoro University}
+}
 [7] Salem, F. and Mosaad, M.I., 2015. A comparison between MPC and optimal PID controllers: Case studies.
+@article{salem2015comparison,
+  title={A comparison between MPC and optimal PID controllers: Case studies},
+  author={Salem, Fawzan and Mosaad, Mohamed I},
+  year={2015},
+  publisher={IET}
+}
 [8] Kuboth, S., Heberle, F., König-Haagen, A. and Brüggemann, D., 2019. Economic model predictive control of combined thermal and electric residential building energy systems. Applied energy, 240, pp.372-385.
+@article{kuboth2019economic,
+  title={Economic model predictive control of combined thermal and electric residential building energy systems},
+  author={Kuboth, Sebastian and Heberle, Florian and K{\"o}nig-Haagen, Andreas and Br{\"u}ggemann, Dieter},
+  journal={Applied energy},
+  volume={240},
+  pages={372--385},
+  year={2019},
+  publisher={Elsevier}
+}
 [9] Watkins, N.J., Nowzari, C. and Pappas, G.J., 2019. Robust economic model predictive control of continuous-time epidemic processes. IEEE Transactions on Automatic Control.
+@article{watkins2019robust,
+  title={Robust economic model predictive control of continuous-time epidemic processes},
+  author={Watkins, Nicholas J and Nowzari, Cameron and Pappas, George J},
+  journal={IEEE Transactions on Automatic Control},
+  year={2019},
+  publisher={IEEE}
+}
 [10] Mhaskar, P., Garg, A. and Corbett, B., 2019. Multi-rate Modeling and Economic Model Predictive Control of the Electric Arc Furnace. In Modeling and Control of Batch Processes (pp. 171-196). Springer, Cham.
+@incollection{mhaskar2019multi,
+  title={Multi-rate Modeling and Economic Model Predictive Control of the Electric Arc Furnace},
+  author={Mhaskar, Prashant and Garg, Abhinav and Corbett, Brandon},
+  booktitle={Modeling and Control of Batch Processes},
+  pages={171--196},
+  year={2019},
+  publisher={Springer}
+}
 [11] Rashid, M.M., Patel, N., Mhaskar, P. and Swartz, C.L., 2019. Handling sensor faults in economic model predictive control of batch processes. AIChE Journal, 65(2), pp.617-628.
+@article{rashid2019handling,
+  title={Handling sensor faults in economic model predictive control of batch processes},
+  author={Rashid, Mudassir M and Patel, Nikesh and Mhaskar, Prashant and Swartz, Christopher LE},
+  journal={AIChE Journal},
+  volume={65},
+  number={2},
+  pages={617--628},
+  year={2019},
+  publisher={Wiley Online Library}
+}
 [12] Tian, H., Lu, Q., Gopaluni, R.B., Zavala, V.M. and Olson, J.A., 2019. An economic model predictive control framework for mechanical pulping processes. Control Engineering Practice, 85, pp.100-109.
+@article{tian2019economic,
+  title={An economic model predictive control framework for mechanical pulping processes},
+  author={Tian, Hui and Lu, Qiugang and Gopaluni, R Bhushan and Zavala, Victor M and Olson, James A},
+  journal={Control Engineering Practice},
+  volume={85},
+  pages={100--109},
+  year={2019},
+  publisher={Elsevier}
+}
 [13] Wang, R., Zhang, X. and Bao, J., 2019. A self-interested distributed economic model predictive control approach to battery energy storage networks. Journal of Process Control, 73, pp.9-18.
+@article{wang2019self,
+  title={A self-interested distributed economic model predictive control approach to battery energy storage networks},
+  author={Wang, Ruigang and Zhang, Xinan and Bao, Jie},
+  journal={Journal of Process Control},
+  volume={73},
+  pages={9--18},
+  year={2019},
+  publisher={Elsevier}
+}
 [14] Salem, F. and Mosaad, M.I., 2015. A comparison between MPC and optimal PID controllers: Case studies.
+@article{salem2015comparison,
+  title={A comparison between MPC and optimal PID controllers: Case studies},
+  author={Salem, Fawzan and Mosaad, Mohamed I},
+  year={2015},
+  publisher={IET}
+}
 [15] Huang, H. and Riggs, J.B., 2002. Comparison of PI and MPC for control of a gas recovery unit. Journal of Process Control, 12(1), pp.163-173.
+@article{huang2002comparison,
+  title={Comparison of PI and MPC for control of a gas recovery unit},
+  author={Huang, Haitao and Riggs, James B},
+  journal={Journal of Process Control},
+  volume={12},
+  number={1},
+  pages={163--173},
+  year={2002},
+  publisher={Elsevier}
+}
 [16] Ferramosca, A., Rawlings, J.B., Limón, D. and Camacho, E.F., 2010, December. Economic MPC for a changing economic criterion. In 49th IEEE Conference on Decision and Control (CDC) (pp. 6131-6136). IEEE.
+@inproceedings{ferramosca2010economic,
+  title={Economic MPC for a changing economic criterion},
+  author={Ferramosca, Antonio and Rawlings, James B and Lim{\'o}n, Daniel and Camacho, Eduardo F},
+  booktitle={49th IEEE Conference on Decision and Control (CDC)},
+  pages={6131--6136},
+  year={2010},
+  organization={IEEE}
+}
 [17] Rawlings, J.B., Angeli, D. and Bates, C.N., 2012, December. Fundamentals of economic model predictive control. In 2012 IEEE 51st IEEE conference on decision and control (CDC) (pp. 3851-3861). IEEE.
+@inproceedings{rawlings2012fundamentals,
+  title={Fundamentals of economic model predictive control},
+  author={Rawlings, James B and Angeli, David and Bates, Cuyler N},
+  booktitle={2012 IEEE 51st IEEE conference on decision and control (CDC)},
+  pages={3851--3861},
+  year={2012},
+  organization={IEEE}
+}
 [18] Amrit, R., Rawlings, J.B. and Angeli, D., 2011. Economic optimization using model predictive control with a terminal cost. Annual Reviews in Control, 35(2), pp.178-186.
+@article{amrit2011economic,
+  title={Economic optimization using model predictive control with a terminal cost},
+  author={Amrit, Rishi and Rawlings, James B and Angeli, David},
+  journal={Annual Reviews in Control},
+  volume={35},
+  number={2},
+  pages={178--186},
+  year={2011},
+  publisher={Elsevier}
+}
 [19] Ellis, M., Durand, H. and Christofides, P.D., 2014. A tutorial review of economic model predictive control methods. Journal of Process Control, 24(8), pp.1156-1178.
+@article{ellis2014tutorial,
+  title={A tutorial review of economic model predictive control methods},
+  author={Ellis, Matthew and Durand, Helen and Christofides, Panagiotis D},
+  journal={Journal of Process Control},
+  volume={24},
+  number={8},
+  pages={1156--1178},
+  year={2014},
+  publisher={Elsevier}
+}
 [20] Heidarinejad, M., Liu, J. and Christofides, P.D., 2012. Economic model predictive control of nonlinear process systems using Lyapunov techniques. AIChE Journal, 58(3), pp.855-870.
+@article{heidarinejad2012economic,
+  title={Economic model predictive control of nonlinear process systems using Lyapunov techniques},
+  author={Heidarinejad, Mohsen and Liu, Jinfeng and Christofides, Panagiotis D},
+  journal={AIChE Journal},
+  volume={58},
+  number={3},
+  pages={855--870},
+  year={2012},
+  publisher={Wiley Online Library}
+}
 [21] Amrit, R., Rawlings, J.B. and Biegler, L.T., 2013. Optimizing process economics online using model predictive control. Computers & Chemical Engineering, 58, pp.334-343.
+@article{amrit2013optimizing,
+  title={Optimizing process economics online using model predictive control},
+  author={Amrit, Rishi and Rawlings, James B and Biegler, Lorenz T},
+  journal={Computers \& Chemical Engineering},
+  volume={58},
+  pages={334--343},
+  year={2013},
+  publisher={Elsevier}
+}
 [22] Rawlings, J.B. and Mayne, D.Q., 2009. Model predictive control: Theory and design. Nob Hill Pub.
+@book{rawlings2009model,
+  title={Model predictive control: Theory and design},
+  author={Rawlings, James Blake and Mayne, David Q},
+  year={2009},
+  publisher={Nob Hill Pub.}
+}
 [23] Siddiqui, I., Ingole, D., Agashe, S. and Sonawane, D., 2018, August. Hands-On Experience with Implementation of Classical Control for Process Plant. In 2018 Fourth International Conference on Computing Communication Control and Automation (ICCUBEA) (pp. 1-6). IEEE.
+@inproceedings{siddiqui2018hands,
+  title={Hands-On Experience with Implementation of Classical Control for Process Plant},
+  author={Siddiqui, Imran and Ingole, Deepak and Agashe, Sudhir and Sonawane, Dayaram},
+  booktitle={2018 Fourth International Conference on Computing Communication Control and Automation (ICCUBEA)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
